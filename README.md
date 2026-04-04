@@ -107,7 +107,7 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author  
-**Tanmoy Talukdar**
-**Gautam Kumar**
-**Harsh Bhardwaj**
-**Arnav Srivastava**
+**Tanmoy Talukdar**,
+ **Gautam Kumar**,
+ **Harsh Bhardwaj**,
+ **Arnav Srivastava**
