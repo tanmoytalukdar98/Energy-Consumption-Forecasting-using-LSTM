@@ -1,5 +1,3 @@
-# ⚡ Energy Consumption Forecasting using LSTM  
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)  
 ![Keras](https://img.shields.io/badge/Keras-NeuralNetwork-red?logo=keras)  
