@@ -1,20 +1,24 @@
 # Energy-Consumption-Forecasting-using-LSTM
 📌 Overview
+
 This project focuses on forecasting energy consumption using Long Short-Term Memory (LSTM) networks, a type of Recurrent Neural Network (RNN) well-suited for time series data. The model learns temporal patterns in historical energy usage to predict future consumption accurately.
 
 🎯 Objectives
+
 Develop a deep learning model for time series forecasting
 Analyze energy consumption patterns
 Compare traditional models with LSTM performance
 Improve prediction accuracy using sequential learning
 
 🧠 Technology Stack
+
 Language: Python
 Libraries: TensorFlow / Keras, NumPy, Pandas, Matplotlib
 Model: LSTM (Recurrent Neural Network)
 Tools: VS Code
 
 ⚙️ Methodology
+
 Data Collection & Preprocessing
 Handle missing values
 Normalize data
@@ -30,16 +34,19 @@ Compare predicted vs actual values
 Visualize performance
 
 🔄 LSTM Working
+
 Forget Gate: Decides what information to discard
 Input Gate: Selects important new information
 Output Gate: Produces final prediction
 
 📊 Results
+
 Accurate prediction of future energy consumption trends
 LSTM outperforms traditional regression models
 Reduced error in long-term forecasting
 
 🚀 How to Run
+
 # Clone repository
 git clone https://github.com/tanmoytalukdar98/Energy-Consumption-Forecasting-using-LSTM.git
 
@@ -53,18 +60,22 @@ pip install -r requirements.txt
 python main.py
 
 📈 Future Scope
+
 Implement Bi-LSTM for better bidirectional learning
 Hyperparameter tuning for improved accuracy
 Real-time energy forecasting system
 Integration with IoT devices
 
 🤝 Contribution
+
 Feel free to fork this repo and contribute by improving models, adding datasets, or optimizing performance.
 
 📜 License
+
 This project is open-source and available under the MIT License.
 
 👨‍💻 Author
+
 Tanmoy Talukdar
 Arnav Srivastava
 Gautam Kumar
