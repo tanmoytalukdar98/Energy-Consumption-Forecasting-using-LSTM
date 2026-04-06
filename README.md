@@ -8,7 +8,7 @@
 
 ## 📌 Overview  
 This project implements a **Long Short-Term Memory (LSTM)** model to forecast energy consumption using historical time series data. The model captures temporal dependencies and sequential patterns, resulting in more accurate predictions compared to traditional statistical methods.
-
+https://energy-consumption-forecasting-lstm.netlify.app/
 ---
 
 ## 🎯 Objectives  
